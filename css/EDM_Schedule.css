@@ -1,0 +1,108 @@
+h1 {
+	font-family: "Verdana";
+	font-size: 18;
+	text-align: center; 
+}
+
+p {
+	font-family: "Verdana";
+	font-size: 14;
+	padding: 10px 40px 20px 40px;
+	text-align: justify;
+	line-height: 125%;
+}
+
+p.home {
+	font-family: "Verdana";
+	font-size: 16;
+	padding: 10px 40px 20px 40px;
+	text-align: justify;
+	line-height: 125%;
+}
+
+
+a.nav:link, a.nav:visited {
+    background-color: darkgrey;
+    color: black;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Verdana";
+	font-size: 16px;
+	font-variant: small-caps;
+	z-index: -1;
+}
+
+a.nav:hover, a.nav:active {
+    background-color: lightblue;
+}
+a {text-decoration: none; color:#cc3300}
+a:hover {color:deeppink;}
+
+body {
+    background-color: #dddddd;
+    margin: 0;
+    height: 100%;
+}
+
+#mainbody {
+	background-image: url("star-space-tile.jpg");
+	height: 100%;
+}
+
+table, td {
+      margin: 0; padding: 0; border: 0; outline: 0; font-size: 12px; font-family: "Verdana"; vertical-align: baseline; background: transparent;
+      }      
+      
+td.pub {
+	margin: 0; padding: 0; border: 0; outline: 0;
+	font-size: 12px;
+	font-family: "Verdana";
+	}
+	
+	
+div.main {
+	margin: auto;
+	max-width: 95%;
+	height: 90%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	}
+
+@media only screen and (min-device-width: 600px) and (min-width: 800px) {
+    div.main {
+        max-width: 60%;
+    }
+}
+
+
+div.nav {
+	background-color: darkgrey;
+	text-align: center;
+	}
+	
+html{
+    min-height:100%;/* make sure it is at least as tall as the viewport */
+    position:relative;
+}	
+
+iframe.myframe {
+	width: 100%; 
+	height: 100%;
+	}
+
+#cloud-container{
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    overflow:hidden;
+    z-index:0; /* Remove this line if it's not going to be a background! */
+}
+
+
+	
+	
+      
