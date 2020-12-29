@@ -1,4 +1,4 @@
-<!-- 
+<!---
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A Jekyll port of the Spectral theme by HTML5 UP.
 Find the original non-jekyll theme at: http://html5up.net/
@@ -59,4 +59,5 @@ Credits:
 		background-size polyfill (github.com/louisremi)
 		Misc. Sass functions (@HugoGiraudel)
 		Respond.js (j.mp/respondjs)
-		Skel (skel.io) -->
+		Skel (skel.io) 
+		-->
