@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://exo.panwar/sitemap.xml
+Sitemap: https://vatsalpanwar.github.io/sitemap.xml
