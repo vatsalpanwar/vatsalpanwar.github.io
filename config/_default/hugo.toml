@@ -26,3 +26,6 @@ summaryLength = 0
 [services]
   [services.x]
     disableInlineCSS = true
+
+[params]
+  arxivAuthorId = "0000-0002-2513-4465"
