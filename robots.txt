@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vatsalpanwar.github.io/sitemap.xml
