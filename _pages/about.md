@@ -1,13 +1,38 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "I am a Research Fellow working on characterising exoplanets and their atmospheres at the University of Birmingham."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a Research Fellow based at the School of Physics and Astronomy, University of Birmingham. I am broadly interested in investigating the fundamental questions about planetary systems, and how answering them can help us understand our own solar system. I am currently focused on using spectroscopic observations and theoretical models to measure and interpret the atmospheric chemistry, thermal properties, and global climate of extrasolar planets.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+As an astronomer working at the interface of theoretical modeling and observational data analysis, I have been developing computationally fast statistical inference frameworks to model and measure the spectroscopic signatures of extrasolar planet atmospheres hidden in the noise and systematics often affecting the data. I have experience analysing cutting edge datasets from the most advanced facilities in the field, including the Very Large Telescope, the Gemini Observatory, and the James Webb Space Telescope.
+
+Research Highlights
+======
+
+Dayside of ultra-hot Jupiters at high spectral resolution 
+![Editing a Markdown file for a talk](/images/editing-talk.png)
+
+Dayside of ultra-hot Jupiters at high spectral resolution 
+![Editing a Markdown file for a talk](/images/editing-talk.png)
+
+Dayside of ultra-hot Jupiters at high spectral resolution 
+![Editing a Markdown file for a talk](/images/editing-talk.png)
+
+Statistical constraints on the chemical composition of non-transiting Hot Jupiters
+![Editing a Markdown file for a talk](/images/editing-talk.png)
+
+Modeling the systematics in transit spectra from ground-based multi-object spectrographs
+![Editing a Markdown file for a talk](/images/editing-talk.png)
+
+
+
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +78,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
