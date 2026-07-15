@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am a Research Fellow working on characterising exoplanets and their atmospheres at the University of Birmingham."
+title: "I am a Research Fellow at the University of Birmingham, working on characterising exoplanets atmospheres"
 author_profile: true
 redirect_from: 
   - /about/
@@ -79,3 +79,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+<!-- <a href="https://www.flaticon.com/free-icons/planet" title="planet icons">Planet icons created by Magnific - Flaticon</a> -->
